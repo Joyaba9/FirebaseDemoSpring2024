@@ -10,3 +10,11 @@ This app  has a rudimentary GUI but includes Java code examples on how to use a 
 
 ## Project files in IntelliJ:
 ![Screen Shot 2024-03-19 at 11 28 06 AM](https://github.com/aydini/FirebaseDemoSpring2024/assets/36745106/3ff46780-d77f-47bd-8639-62bc62f7f354)
+
+
+
+
+
+
+https://github.com/Joyaba9/FirebaseDemoSpring2024/assets/123403914/1c309615-f435-4f02-b564-1096f5ebe1ab
+
